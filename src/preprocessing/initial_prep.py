@@ -16,7 +16,7 @@ def initial_join (Crashes, Vehicle, People):
 
     # INITIAL FILTERING BEFORE the JOIN, FOR PERFORMANCE REASONS:
     Crashes=Crashes[Crashes['REPORT_TYPE']=='ON SCENE']
-    Crashes=Crashes.query("CRASH_TYPE == 'INJURY AND / OR TOW DUE TO CRASH'")
+#    Crashes=Crashes.query("CRASH_TYPE == 'INJURY AND / OR TOW DUE TO CRASH'")
 
 
     latest=date.today().year
