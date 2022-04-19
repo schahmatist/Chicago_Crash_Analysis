@@ -16,7 +16,8 @@ def initial_join (Crashes, Vehicle, People):
 
     # INITIAL FILTERING BEFORE the JOIN, FOR PERFORMANCE REASONS:
     Crashes=Crashes[Crashes['REPORT_TYPE']=='ON SCENE']
-#    Crashes=Crashes.query("CRASH_TYPE == 'INJURY AND / OR TOW DUE TO CRASH'")
+    Crashes=Crashes.query("CRASH_TYPE == 'INJURY AND / OR TOW DUE TO CRASH'")
+
 
     latest=date.today().year
     oldest=Vehicle['VEHICLE_YEAR'].min()
@@ -49,19 +50,6 @@ def initial_join (Crashes, Vehicle, People):
     all_df=pd.merge(temp_df1, Crashes, on='CRASH_RECORD_ID')
     return all_df
 
-def drop_unknown (df):
-    new_df=df.copy()
-    info=[]
-    total = df.shape[0]
-    for col in df.columns:
-        unknown_n=round((df[col]=='UNKNOWN').sum()/total*100,2)
-        not_na = round(df[col].isna().sum()/total*100,2)
-        na_and_unknown=unknown_n+not_na
-
-        if unknown_n > 0 and unknown_n < 50 :
-#        if unknown_n > 0 and na_and_unknown < 50 :
-            new_df=df[df[col]!='UNKNOWN']
-    return new_df
 
 def create_target(this_driver_action, driver_error, driver_sec_error, phys_condition):
     if this_driver_action not in ['NONE','OTHER','UNKNOWN']:
@@ -123,24 +111,7 @@ all_df['SOME_DRIVER_SEC_ERROR']=all_df['SEC_CONTRIBUTORY_CAUSE'].replace(targ_ma
 all_df['GUILTY']=all_df.apply(lambda row: create_target(row['DRIVER_ACTION'], row['SOME_DRIVER_ERROR'], 
                                                         row['SOME_DRIVER_SEC_ERROR'],row['PHYSICAL_CONDITION']), axis=1)
 # DROPPING UNKNOWN TARGET
-
-#cleaned_df=drop_unknown(all_df)
-
 all_df = all_df[all_df['GUILTY']!='UNKNOWN']
-
-all_df=all_df[all_df['PHYSICAL_CONDITION'] != 'UNKNOWN']
-all_df=all_df[all_df['VEHICLE_DEFECT'] != 'UNKNOWN']
-all_df=all_df[all_df['MANEUVER'] != 'UNKNOWN/NA']
-all_df=all_df[all_df['FIRST_CONTACT_POINT'] != 'UNKNOWN']
-all_df=all_df[all_df['TRAFFIC_CONTROL_DEVICE'] != 'UNKNOWN']
-all_df=all_df[all_df['DEVICE_CONDITION'] != 'UNKNOWN']
-all_df=all_df[all_df['WEATHER_CONDITION'] != 'UNKNOWN']
-all_df=all_df[all_df['LIGHTING_CONDITION'] != 'UNKNOWN']
-all_df=all_df[all_df['TRAFFICWAY_TYPE'] !=  'UNKNOWN']
-all_df=all_df[all_df['ROADWAY_SURFACE_COND']!= 'UNKNOWN']
-all_df=all_df[all_df['ROAD_DEFECT'] != 'UNKNOWN']
-all_df=all_df[all_df['DRIVER_VISION'] != 'UNKNOWN']
-all_df=all_df[all_df['AIRBAG_DEPLOYED'] != 'DEPLOYMENT UNKNOWN']
 
 y=all_df['GUILTY']
 all_col=all_df.drop(['GUILTY'],axis=1)
