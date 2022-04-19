@@ -16,14 +16,11 @@ def initial_join (Crashes, Vehicle, People):
 
     # INITIAL FILTERING BEFORE the JOIN, FOR PERFORMANCE REASONS:
     Crashes=Crashes[Crashes['REPORT_TYPE']=='ON SCENE']
-    Crashes=Crashes.query("CRASH_TYPE == 'INJURY AND / OR TOW DUE TO CRASH'")
+#    Crashes=Crashes.query("CRASH_TYPE == 'INJURY AND / OR TOW DUE TO CRASH'")
 
 
     latest=date.today().year
     oldest=Vehicle['VEHICLE_YEAR'].min()
-
-    Vehicle=Vehicle[Vehicle['VEHICLE_YEAR']<=date.today().year]
-    Vehicle=Vehicle[Vehicle['VEHICLE_YEAR']>1900]
 
     Vehicle=Vehicle.copy()
     vehicle_age=[oldest-1, latest-25, latest-15, latest-8, latest-3, latest ]
@@ -36,10 +33,8 @@ def initial_join (Crashes, Vehicle, People):
     Vehicle=Vehicle[Vehicle['VEHICLE_TYPE'].isin(veh_type)]
 
     People = People.query('PERSON_TYPE == "DRIVER"')
-#   People = People.query('(AGE > 14 and AGE < 101) | AGE.isnull()', engine='python')  
-    People = People.query('(AGE > 14 and AGE < 101)', engine='python')  # will remove na
-#    People = People.query('DRIVERS_LICENSE_CLASS in ("A","B","C","D","DM","AM","BM","CD") | DRIVERS_LICENSE_CLASS.isnull()', engine='python')
-    People = People.query('DRIVERS_LICENSE_CLASS in ("A","B","C","D","DM","AM","BM","CD")', engine='python') # will remove na
+    People = People.query('(AGE > 14 and AGE < 101) | AGE.isnull()', engine='python')  #
+    People = People.query('DRIVERS_LICENSE_CLASS in ("A","B","C","D","DM","AM","BM","CD") | DRIVERS_LICENSE_CLASS.isnull()', engine='python')
     People=People.query('SEX!="X"')
 
     People=People.copy()
