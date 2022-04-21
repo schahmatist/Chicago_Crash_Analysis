@@ -4,9 +4,9 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta, timezone, date
-#from pysolar.solar import *
-#from zoneinfo import ZoneInfo
-#from dateutil import tz
+from pysolar.solar import *
+from zoneinfo import ZoneInfo
+from dateutil import tz
 
 
 pd.set_option('display.max_columns', 80)

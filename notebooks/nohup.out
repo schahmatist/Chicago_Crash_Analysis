@@ -511,3 +511,1638 @@
 [I 00:24:41.587 NotebookApp] Saving file at /Boost.ipynb
 [I 00:26:41.590 NotebookApp] Saving file at /Boost.ipynb
 [I 00:28:41.571 NotebookApp] Saving file at /Boost.ipynb
+[I 00:36:41.595 NotebookApp] Saving file at /Boost.ipynb
+[I 00:38:41.576 NotebookApp] Saving file at /Boost.ipynb
+[I 00:40:41.590 NotebookApp] Saving file at /Boost.ipynb
+[I 00:42:41.573 NotebookApp] Saving file at /Boost.ipynb
+[I 00:44:41.566 NotebookApp] Saving file at /Boost.ipynb
+[I 00:46:42.139 NotebookApp] Saving file at /Boost.ipynb
+[I 00:48:41.577 NotebookApp] Saving file at /Boost.ipynb
+[I 00:52:41.570 NotebookApp] Saving file at /Boost.ipynb
+[I 00:54:27.098 NotebookApp] Saving file at /Extra Forest .ipynb
+[I 00:54:41.569 NotebookApp] Saving file at /Boost.ipynb
+[I 00:56:27.104 NotebookApp] Saving file at /Extra Forest .ipynb
+[I 00:56:41.583 NotebookApp] Saving file at /Boost.ipynb
+[I 00:58:27.111 NotebookApp] Saving file at /Extra Forest .ipynb
+[I 00:58:42.093 NotebookApp] Saving file at /Boost.ipynb
+[I 01:00:26.916 NotebookApp] Saving file at /Extra Forest .ipynb
+[I 01:00:41.580 NotebookApp] Saving file at /Boost.ipynb
+[I 01:02:13.239 NotebookApp] Copying Extra Forest .ipynb to 
+[W 01:02:13.255 NotebookApp] Notebook Extra Forest .ipynb is not trusted
+[W 01:02:13.270 NotebookApp] Notebook Extra Forest -Copy1.ipynb is not trusted
+[W 01:02:16.345 NotebookApp] Notebook Extra Forest -Copy1.ipynb is not trusted
+[I 01:02:16.914 NotebookApp] Kernel started: 751cf1fc-4811-40b4-9bf5-5c373f669b2f, name: python3
+[I 01:02:42.119 NotebookApp] Saving file at /Boost.ipynb
+[I 01:06:17.169 NotebookApp] Saving file at /KNN.ipynb
+[W 01:06:17.170 NotebookApp] Notebook KNN.ipynb is not trusted
+[I 01:12:16.860 NotebookApp] Saving file at /KNN.ipynb
+[W 01:12:16.860 NotebookApp] Notebook KNN.ipynb is not trusted
+[I 01:14:16.845 NotebookApp] Saving file at /KNN.ipynb
+[W 01:14:16.845 NotebookApp] Notebook KNN.ipynb is not trusted
+[I 01:16:16.855 NotebookApp] Saving file at /KNN.ipynb
+[W 01:16:16.855 NotebookApp] Notebook KNN.ipynb is not trusted
+[I 01:18:16.847 NotebookApp] Saving file at /KNN.ipynb
+[I 01:20:16.852 NotebookApp] Saving file at /KNN.ipynb
+[I 01:22:16.860 NotebookApp] Saving file at /KNN.ipynb
+[I 01:24:16.869 NotebookApp] Saving file at /KNN.ipynb
+[I 01:26:16.867 NotebookApp] Saving file at /KNN.ipynb
+[I 01:28:16.841 NotebookApp] Saving file at /KNN.ipynb
+[I 01:30:17.129 NotebookApp] Saving file at /KNN.ipynb
+[I 01:32:41.590 NotebookApp] Saving file at /Boost.ipynb
+[I 01:34:16.862 NotebookApp] Saving file at /KNN.ipynb
+[I 01:36:16.851 NotebookApp] Saving file at /KNN.ipynb
+[I 01:38:16.843 NotebookApp] Saving file at /KNN.ipynb
+[I 01:40:16.860 NotebookApp] Saving file at /KNN.ipynb
+[I 01:42:16.836 NotebookApp] Saving file at /KNN.ipynb
+[I 01:44:16.922 NotebookApp] Saving file at /KNN.ipynb
+[I 01:46:16.842 NotebookApp] Saving file at /KNN.ipynb
+[I 01:46:38.134 NotebookApp] Saving file at /KNN.ipynb
+[I 01:48:22.766 NotebookApp] Saving file at /Bayesean.ipynb
+[I 01:50:14.118 NotebookApp] Copying KNN.ipynb to 
+[I 01:50:16.353 NotebookApp] Kernel started: f22abc12-a862-4c2d-8657-eecbdcd7c9ab, name: python3
+[I 01:50:23.097 NotebookApp] Saving file at /Bayesean.ipynb
+[I 01:52:16.834 NotebookApp] Saving file at /KNN.ipynb
+[I 01:54:16.358 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 01:54:17.089 NotebookApp] Saving file at /KNN.ipynb
+[I 01:56:16.872 NotebookApp] Saving file at /KNN.ipynb
+[I 01:56:17.133 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 01:58:16.420 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 01:58:17.133 NotebookApp] Saving file at /KNN.ipynb
+[I 02:00:16.838 NotebookApp] Saving file at /KNN.ipynb
+[I 02:00:17.093 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 02:02:17.271 NotebookApp] Saving file at /KNN.ipynb
+[I 02:02:41.943 NotebookApp] Saving file at /Boost.ipynb
+[I 02:04:16.865 NotebookApp] Saving file at /KNN.ipynb
+[I 02:04:43.641 NotebookApp] Saving file at /Boost.ipynb
+[I 02:05:39.334 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:05:40.628 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:05:40.858 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:05:41.068 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:05:41.296 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:05:42.102 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:05:42.351 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:05:42.550 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:05:42.767 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:05:42.993 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:05:43.313 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:05:43.454 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:06:16.366 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 02:06:17.092 NotebookApp] Saving file at /KNN.ipynb
+[I 02:06:52.185 NotebookApp] Saving file at /Boost.ipynb
+[I 02:08:16.344 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 02:08:17.105 NotebookApp] Saving file at /KNN.ipynb
+[I 02:10:16.837 NotebookApp] Saving file at /KNN.ipynb
+[I 02:12:16.838 NotebookApp] Saving file at /KNN.ipynb
+[I 02:14:16.842 NotebookApp] Saving file at /KNN.ipynb
+[I 02:16:16.343 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 02:16:17.094 NotebookApp] Saving file at /KNN.ipynb
+[I 02:18:17.098 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 02:18:17.132 NotebookApp] Saving file at /KNN.ipynb
+[I 02:18:41.571 NotebookApp] Saving file at /Boost.ipynb
+[I 02:20:41.577 NotebookApp] Saving file at /Boost.ipynb
+[I 02:24:26.457 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:26.993 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:27.191 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:27.398 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:27.597 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:27.809 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:28.044 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:28.264 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:28.477 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:28.696 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:28.909 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:29.137 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:29.351 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:29.563 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:29.791 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:30.018 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:30.253 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:30.472 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:30.685 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:30.899 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:31.119 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:31.339 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:31.552 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:31.771 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:31.978 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:32.503 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:36.993 NotebookApp] Kernel interrupted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:48.908 NotebookApp] Starting buffering for e9d46bf1-94c4-45ea-bf85-fe04e6364887:c85a524a00f546069611695ba6c9a2a0
+[I 02:24:51.863 NotebookApp] Kernel restarted: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 02:24:51.882 NotebookApp] Restoring connection for e9d46bf1-94c4-45ea-bf85-fe04e6364887:c85a524a00f546069611695ba6c9a2a0
+[I 02:24:53.712 NotebookApp] Replaying 41 buffered messages
+[I 02:26:26.099 NotebookApp] Saving file at /Bag-Logistic.ipynb
+[I 02:28:17.106 NotebookApp] Saving file at /KNN.ipynb
+[I 02:29:30.411 NotebookApp] Copying KNN.ipynb to 
+[I 02:29:32.159 NotebookApp] Kernel started: 60cad98b-57ec-419e-bc62-4034f665ed44, name: python3
+[I 02:31:32.140 NotebookApp] Saving file at /Vote.ipynb
+[I 02:32:46.874 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:47.475 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:47.694 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:48.120 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:48.538 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:48.780 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:49.009 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:49.229 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:49.462 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:49.660 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:49.881 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:50.115 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:50.356 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:50.591 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:50.817 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:51.045 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:51.272 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:51.500 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:51.725 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:51.947 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:52.188 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:52.414 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:52.634 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:52.841 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:53.066 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:53.296 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:53.536 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:53.765 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:53.991 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:54.233 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:54.452 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:54.679 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:54.906 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:55.141 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:55.375 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:55.601 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:55.836 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:56.065 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:56.291 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:56.746 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:56.979 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:57.235 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:57.455 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:57.683 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:57.918 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:58.159 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:58.386 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:58.606 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:58.818 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:59.025 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:32:59.294 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:33:02.832 NotebookApp] Kernel interrupted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:33:12.687 NotebookApp] Starting buffering for f22abc12-a862-4c2d-8657-eecbdcd7c9ab:c71efa272c934caebc0a579edc2920d5
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:318: UserWarning: resource_tracker: There appear to be 1 leaked file objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:318: UserWarning: resource_tracker: There appear to be 108 leaked folder objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_1322d09ed8b44641b2de515e38da0cc9_670379e792b84ae5aa5ea5748c5f43c6: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_59ee3bc419ea460a9e5d1849d331687a_0ca0f5850c9d4d85aeda89e9ffe9d8b9: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_44a5f37345bc45f3b7f8ad609bb9c95f_38da825c62bb465e8c4f44cc80d66754: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_bd7cb3d40fc944f3b0a258d1e219237d_80693a333e5045ac8ae72fae55df5fc2: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_cc1ac1db279c4a0abab8c3a7d662ccda_fb65debc3b1e4e79af550b1cbffacf6d: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_7b5f1a40eddb4e699370e7dba8cc62d1_5f18e0eda1164c638276d10dbbca7f89: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_9a479948015f4ee5921ecb24d5fdabf0_7c63021fc5e049e094500c0a21b4ef38: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_de265a6609f64312a68891802601c9a7_9e38463604444f758cc88bde443b5afb: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_ad44479b0933465d9937f9d5132ace2a_148d628da5c84596ac37f961c24ddb49: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_c48bb297e75c4d4b9eefd3976fb6c3ce_26c24bcc28ef4ed58a983319810c3dcb: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_769e48fce9de4d2c9667cfff6f59032c_768d1cd9ea944716963a8e46dc85e884: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_e70b8e6a40d1444ea979d38d2fe68300_a38b8f8933054dc388f6aeb5a052a03c: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_2bc7483d6c8243ccbc322f4fd7fdc974_e6c723687e3e450fb38631539ff8e56a: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_f1f6faa0c0664dea821bb4467cf3a5c5_2b665e50880f4a2f9fda72a850532291: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_b6f1a4af028e4cd3944caf047c51fa62_d6804ebb4ed44de29cea1cde43fcfa38: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_1934807ad52c4c58a82388a9ebf026f5_ffb00d1992204d9199057434c1560eb7: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_04cf32901ca24845a5432af44652a84e_f59ae6c4f7b94ef7902af7f19472ad0c: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_2069e86e0e714b2ea9a7ebacffa3b2c2_50cd3155901442018496253d72fa7655: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_ae0eee81ecc2453a93ecfce2ae75827f_a85c034ddce842fc8176206453002b0b: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_5e16770d0ac84e2c888c847e80b7edb3_88af38455bb046158b773dd874681198: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_1889626c16e94527b814af2ea147c3c3_da1b019f5b6e4165a08fd80fe066b079: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_fdb3f118dc5d4daa834dd5431a5d0981_7ad03fef71ad44bb82fda6f4644fe2c9: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_2544c0176f664225b39df60534e4b446_0d09e26761d24ab8bb6869cda41143dc: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_4cbfd22c886d443dbfaa2a7afe0366e0_6e80b65f100e418ca0651264a2b693c3: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_af501450a2454a2185a04e462cd20fc9_c53993ace09544c682f3122d8a794e24: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_824d1dfbfd694bfd8f47d38b3ea7a3c1_246eb20f1f5a4d52aa29ce20bb0d22dc: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_68b71a87a08b43148f241b49fc6c5569_92804eb54feb4c049c6b8e70b1afc894: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_30d4ef56991c4252a144b88e3abc96c3_0277e03074264ea58d5ddae4bb4282d0: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_89b7f26c21f74ecf8dc34ef44bb4edb6_7320cee5e9cf4a39a0dc4483642982e7: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_178df32e5176435580ef9db1b6ff8fec_02fd345123964b92965122190acfc277: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_1ac1616c186847e5a6d7072e0a10e5c7_b6ba42e2ba63483886e4f9fee21f0953: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_c9e8bd4cbf724e3aa8accbb60e15aabd_2e252f71cf20454b91b2b4aab176c8e2: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_3bc235d754fb436da59d79e88ab482f4_b13e664a78f14b999f13e78cd36d0410: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_d1e4fa5daa4a4911af3fcc2a7d4f83bb_a30c7903e7fc4e8ab6b7225bbc51ae2a: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_079a94e350a145d793f1be7e9809d5ef_e36ba4e022e34c56b319414cae561d21: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_f885f8a45a934761b3c5c0ff76c0cee3_df631f7c5b404f24baabf69b4893dcb8: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_6596574b02e64acf91cc8018faedbb5c_9d6716f0ef044c4b91d474dd7d9ef7c7: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_82635be59f4042098646c064af39b95d_442f000ac262432ea82e0c8732fcc349: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_de1da813e3f4440b9cddf08df7577861_4319f334a35c42989abab3e62d79f6fc: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_c1d977e040a84e1c9e8f70c7c57e9f50_d34ac26cf94f43cd95bb968609e97955: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_130932496c21437090f03d2994b40d01_8574aab8a97e437cb8a9af2868a405e1: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_a8bb605ac1ac4dc79f8e01ea08602ddc_b16af6790509454aa7967836183d470b: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_f6f60fec87f94fb28e1d9d80abc0a697_4fbd2a7f6d954e02a80d8b960aab7362: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_93aa5455c83c48f0bf232db0491b3337_5f72bbe198e54dc5855d3d75ebf24e7e: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_06ed45f4aa024d3f8a1309b3c340ee66_92c090e6eef443969e409a073df413a3: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_15b939635a1c4199a301e9a59e8dd0eb_3b57e143f7a1469d9c22b0ff702db392: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_5074ccd57c324a56ac6b890d92cb0136_1f5e9015c54a4fd8bac3516f9737375d: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_33ef9f2d2d314063922719c3ab4a9982_ed5a2132bb5845e5b18e5a5995dee973: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_246300aabc0e4de49cc5bfc9a48f6c3a_56dc4ab8fe3e40e2a7a4dc4772f81c76: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_72f6b1d18ab54299817de7049f10e555_2acd32a21f0e45e4a81fcfe75a92adb2: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_e69c4f70eafc456bbca52667af3a4d86_7e53a53c00c54c49b52b2a119f8a0b5c: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_0077aa7011284debab34db07b5006400_6ac11b6a980245c48e027652ba3d5fe0: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_95c839dcead64febb667dc1786046b21_4eec2801377347af85e620577078b40e: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_88c9faf826fd4890af14f568bbeb7fb5_e023f30f3b79472ebb863cb335954628: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_4d05805cdef74e1cbdeda39061774cfd_359b449d7a714bacad4f830691082f7c: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_06d1ad0fb4f041d88b166afb5b54b0e2_2bda429d4109452e92eec3deb14d8d5c: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_3d9ba0827f8c413fae1d710201cb8ddc_b84d1e86882c4f93bba7df1008354788: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_294cd7f899634d428df925e6def2ad38_8299eed7016749afa022cee72e34b0a9: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_99f068258eaf4e588e9cadb9aac47ac7_0deb725d6d16449182b3215fefe1aff4: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_156a2fdf7491449da400ea5663db4ab8_4c3a53ffd0f74c88a2633dedf5c202ab: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_05644b476b2d49958e1b71fccd43116b_8e0c90298905449d93d86cd0aca29917: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_ac455a1de0024dd4809f54192d645442_843698f7c6f3410e9999675fa1372381: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_bef2abf7ae2e4ae28ef416c550a6276a_dcd2cedc316547c7b667645b133dfdfb: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_a4ff4239588b40539a55c3f29e6b052b_e971e03f59294e07b19772b99e0d299f: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_2e23350617864d93ad7ac397a911eb5b_bf32af68d9dd44cb94417bfed32fbe5e: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_e0c3092d63a54b238db80bbfcd0810d4_23dd7e51c2574e15a055333866c29b12: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_64952fe9107241c8a87c584985045f7d_e56d44db831646a991a494c42c84e6db: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_7237159480774dbbb8b7a62030ec3e0a_f9f7fe4e7aae4a94a97d953032193ed9: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_b8255e8f362f45ee971b53e7e7a4f441_e4cf150ae195474180f852092cef695c: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_d0c031f25bb24a41a20220565d9daef6_0161e611fa8c400abe58c320d375c22b: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_1875b190c3cd4164baa4d3ac65545372_a5c2ce790e4640f9a3a78b192db6ca87: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_1ee0569f89164609a9ffee9710496cd4_3afb5c1da90c4861a09e7e247faef7c4: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_73b9371d80704e82bce42953e19300fa_638da49f440f4ec6ad8e1076454280f0: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_0f9d957a61224fb38be4967f97d45c4f_c41096968b0a4e439f2afeca121a9e7b: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_a47a6d03969546e3a073aa743278d628_718fc104ae914bd69d662e9e8067def8: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_1f396e8bff104b7dad7f219ab83fa3ff_ec059e37843d454a8c39d3dc0f1f6fb8: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_d5bcf96a03154deaa6b1a8c60a057332_c5f5158ff931418e8ba812fb27bec0db: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_71db9241e7a24754b22761b9a4cfccdf_31644841af7c482397a2353478778ee4: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_adb92abb89a34beb8f209348cadcbb3f_2779b6c33e3c45f1a687e455bac8eb91: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_58b00875c10b4768b452bd0d4bfc91d5_d4f9dbfe8437443080e9e8ac149f3148: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_67fda9f0156149bab8e4e0514bf8a1ab_97094065d7c04e0883049ac71dc7adee: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_1e653c5d464c4288943d301af43042dc_71389aa5c01c422b96bf8c38914fbb20: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_6241b36d5ebf486090213578322f233a_19c9d69d0564437180f240f12fe83a17: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_e51db3be94174484ac4d59525cf19a7d_30d4d9ad607d41b9b48b3d65660440e2: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_f0c9b28ca1db4c6aa5fd9f5f2c642ff3_4e947e0188114d85847d3059e80b7557: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_a81059b7e69846699ec348de3b98d62b_f55f3348d45a4a0bbe9173e07433650d: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_95964f86248143c0a72895b2a56527cb_e0b2364529184d97b140804ccb477651: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_b7d97d0f61054b37b35c89da0905d5ff_ac674454b2b24b4ebf227949f5dd9e7f: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_2f9ad3bc7ab34662b20a5c90d6d8cc1d_de4bebc883674f2cb82523d641773844: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_4fcd2605ac52491f837593471a4b995f_0c53146daec448dc800bc4ec189b1419: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_6b83d7e2f4c0497bb2f18e9757a01217_61a419cb662a467ea48bc91c6e85ae1f: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_76a47fbcac434817b6b2e8b0df2d6a3e_a80a7fa1baa540ee9b824311e3029d76: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_01fc0156e4014e82943b27307ce2ce7f_63f4c3a9101c436c97a96b44b6c39787: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_d9cae5af6a094d0ea2421cd238cd5748_88ddef583545471bb03d13c0b51e8c2d: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_3a0067ec035e463fae5b803752f2717f_ff51907e40964e99af30d3980cc65591: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_91bf698ae4cc4e57adc8dbe6a8f07c0d_9dee216ebffa4fdd83f09d3035568a41: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_cdc0b0a8e29541ecb1c2de7e61787fd4_ac420a30411b4ffa9f07a1aab1ae73d2: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_56e89e73f4214dfe8805069a9cfe5610_7bca324b23c941bea3faf2bdc0ce307a: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_c0bd2211cf9f4b94bdae8c00a612849f_f40ece507bbd41f786d202404a6f183e: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_46a5f2ebad2940928001aa20332a0890_f366298530ac47e59375ed34928e84b3: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_4526780fc49a4fc08b02a2e342718510_cc39cc121da94998b7e73e04dfb22c8d: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_3a78f8f5a80a4807aea62f499fa42e99_81039276a1b14139b05a15c7b10761dc: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_7db161cbbd0a42e0bce14fb33870f498_62c2805413314c9e975a5342f0c4a0ce: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_1fb945710b0942cfb90c77e790784083_7a44b0a539d04f1b92671fab8bd249e1: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_397a407a08d943a0a59683bd85b1bfe7_e7b3851d5a9b410c9120faf28c34caa9: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_badccba908ec41cbbab04f9ebe6d6398_451eeb10b04247d8a3b99ea8d5898ed6: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+C:\anaconda3\lib\site-packages\joblib\externals\loky\backend\resource_tracker.py:333: UserWarning: resource_tracker: C:\Users\DIMAFI~1\AppData\Local\Temp\joblib_memmapping_folder_24492_982c02915c9b4ec5a183bb47aaed3806_2df8b6a9ad1b42b7b6da7453a334b37e: FileNotFoundError(2, 'The system cannot find the path specified')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+[I 02:33:15.640 NotebookApp] Kernel restarted: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 02:33:15.654 NotebookApp] Restoring connection for f22abc12-a862-4c2d-8657-eecbdcd7c9ab:c71efa272c934caebc0a579edc2920d5
+[I 02:33:17.400 NotebookApp] Replaying 3 buffered messages
+[I 02:34:16.422 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 02:35:32.128 NotebookApp] Saving file at /Vote.ipynb
+[I 02:37:32.126 NotebookApp] Saving file at /Vote.ipynb
+[I 02:38:17.193 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 02:41:32.123 NotebookApp] Saving file at /Vote.ipynb
+[I 02:43:33.094 NotebookApp] Saving file at /Vote.ipynb
+[I 02:44:23.141 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 02:45:32.179 NotebookApp] Saving file at /Vote.ipynb
+[I 02:47:33.093 NotebookApp] Saving file at /Vote.ipynb
+[I 02:47:47.590 NotebookApp] Saving file at /KNN-Bag.ipynb
+[I 02:48:26.103 NotebookApp] Saving file at /Bag-Logistic.ipynb
+[I 02:49:32.119 NotebookApp] Saving file at /Vote.ipynb
+[I 02:51:32.132 NotebookApp] Saving file at /Vote.ipynb
+[I 02:53:32.124 NotebookApp] Saving file at /Vote.ipynb
+[I 02:55:33.098 NotebookApp] Saving file at /Vote.ipynb
+[I 03:00:43.517 NotebookApp] Saving file at /Bag-Logistic.ipynb
+[I 03:05:32.134 NotebookApp] Saving file at /Vote.ipynb
+[I 03:07:32.124 NotebookApp] Saving file at /Vote.ipynb
+[I 03:09:32.123 NotebookApp] Saving file at /Vote.ipynb
+[I 03:11:32.117 NotebookApp] Saving file at /Vote.ipynb
+[I 03:13:32.119 NotebookApp] Saving file at /Vote.ipynb
+[I 03:15:32.126 NotebookApp] Saving file at /Vote.ipynb
+[I 03:17:32.129 NotebookApp] Saving file at /Vote.ipynb
+[I 03:19:32.128 NotebookApp] Saving file at /Vote.ipynb
+[I 03:21:32.120 NotebookApp] Saving file at /Vote.ipynb
+[I 03:22:56.987 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:57.186 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:57.391 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:57.583 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:57.803 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:58.023 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:58.236 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:58.463 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:58.699 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:58.939 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:59.181 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:59.443 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:59.720 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:22:59.998 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:00.260 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:00.494 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:00.765 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:01.006 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:01.232 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:01.459 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:01.680 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:01.900 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:02.120 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:02.334 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:02.568 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:09.450 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:32.127 NotebookApp] Saving file at /Vote.ipynb
+[I 03:23:33.689 NotebookApp] Starting buffering for 60cad98b-57ec-419e-bc62-4034f665ed44:a1c7a63c06454e39bdd9f261c76abc77
+[I 03:23:36.633 NotebookApp] Kernel restarted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 03:23:36.662 NotebookApp] Restoring connection for 60cad98b-57ec-419e-bc62-4034f665ed44:a1c7a63c06454e39bdd9f261c76abc77
+[I 03:23:38.606 NotebookApp] Replaying 3 buffered messages
+[I 03:25:32.121 NotebookApp] Saving file at /Vote.ipynb
+[I 03:27:32.121 NotebookApp] Saving file at /Vote.ipynb
+[I 03:27:56.217 NotebookApp] Saving file at /Vote.ipynb
+[I 03:29:32.130 NotebookApp] Saving file at /Vote.ipynb
+[I 03:31:32.123 NotebookApp] Saving file at /Vote.ipynb
+[I 03:33:32.119 NotebookApp] Saving file at /Vote.ipynb
+[I 03:35:32.126 NotebookApp] Saving file at /Vote.ipynb
+[I 03:37:32.125 NotebookApp] Saving file at /Vote.ipynb
+[I 03:39:22.737 NotebookApp] Saving file at /Vote.ipynb
+[I 03:39:34.528 NotebookApp] Saving file at /Vote.ipynb
+[I 03:41:35.441 NotebookApp] Saving file at /Vote.ipynb
+[I 03:43:34.528 NotebookApp] Saving file at /Vote.ipynb
+[I 03:45:34.541 NotebookApp] Saving file at /Vote.ipynb
+[I 03:47:34.527 NotebookApp] Saving file at /Vote.ipynb
+[I 03:49:34.530 NotebookApp] Saving file at /Vote.ipynb
+[I 03:50:54.832 NotebookApp] Saving file at /Vote.ipynb
+[I 03:53:35.515 NotebookApp] Saving file at /Vote.ipynb
+[I 03:55:34.537 NotebookApp] Saving file at /Vote.ipynb
+[I 03:57:35.514 NotebookApp] Saving file at /Vote.ipynb
+[I 03:59:34.529 NotebookApp] Saving file at /Vote.ipynb
+[I 04:01:35.507 NotebookApp] Saving file at /Vote.ipynb
+[I 04:02:43.991 NotebookApp] Saving file at /Boost.ipynb
+[I 04:05:35.524 NotebookApp] Saving file at /Vote.ipynb
+[I 04:07:33.206 NotebookApp] Kernel interrupted: 808f66c2-8c84-4398-ab1a-13154df6f8e2
+[I 04:08:44.018 NotebookApp] Saving file at /Boost.ipynb
+[I 04:10:44.004 NotebookApp] Saving file at /Boost.ipynb
+[I 04:12:44.011 NotebookApp] Saving file at /Boost.ipynb
+[I 04:13:54.518 NotebookApp] Saving file at /Vote.ipynb
+[I 04:14:44.008 NotebookApp] Saving file at /Boost.ipynb
+[I 04:16:44.011 NotebookApp] Saving file at /Boost.ipynb
+[I 04:18:43.999 NotebookApp] Saving file at /Boost.ipynb
+[I 04:19:35.524 NotebookApp] Saving file at /Vote.ipynb
+[I 04:20:43.983 NotebookApp] Saving file at /Boost.ipynb
+[I 04:22:43.981 NotebookApp] Saving file at /Boost.ipynb
+[I 04:24:43.979 NotebookApp] Saving file at /Boost.ipynb
+[I 04:26:44.568 NotebookApp] Saving file at /Boost.ipynb
+[I 04:28:43.989 NotebookApp] Saving file at /Boost.ipynb
+[I 04:30:43.987 NotebookApp] Saving file at /Boost.ipynb
+[I 04:32:44.529 NotebookApp] Saving file at /Boost.ipynb
+[I 04:34:43.989 NotebookApp] Saving file at /Boost.ipynb
+[I 04:35:38.309 NotebookApp] Saving file at /Vote.ipynb
+[I 04:36:44.515 NotebookApp] Saving file at /Boost.ipynb
+[I 04:38:44.016 NotebookApp] Saving file at /Boost.ipynb
+[I 04:40:44.010 NotebookApp] Saving file at /Boost.ipynb
+[I 04:42:44.002 NotebookApp] Saving file at /Boost.ipynb
+[I 04:44:43.997 NotebookApp] Saving file at /Boost.ipynb
+[I 04:46:43.995 NotebookApp] Saving file at /Boost.ipynb
+[I 04:48:44.003 NotebookApp] Saving file at /Boost.ipynb
+[I 04:50:43.995 NotebookApp] Saving file at /Boost.ipynb
+[I 04:51:46.963 NotebookApp] Kernel interrupted: 808f66c2-8c84-4398-ab1a-13154df6f8e2
+[I 04:52:44.012 NotebookApp] Saving file at /Boost.ipynb
+[I 04:54:43.969 NotebookApp] Saving file at /Boost.ipynb
+[I 04:55:35.501 NotebookApp] Saving file at /Vote.ipynb
+[I 04:56:07.724 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:08.454 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:08.660 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:08.831 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:09.007 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:09.213 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:09.397 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:09.610 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:09.788 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:09.980 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:10.205 NotebookApp] Kernel interrupted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:14.004 NotebookApp] Starting buffering for 60cad98b-57ec-419e-bc62-4034f665ed44:a1c7a63c06454e39bdd9f261c76abc77
+[I 04:56:16.983 NotebookApp] Kernel restarted: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:17.001 NotebookApp] Restoring connection for 60cad98b-57ec-419e-bc62-4034f665ed44:a1c7a63c06454e39bdd9f261c76abc77
+[W 04:56:21.575 NotebookApp] Nudge: attempt 10 on kernel 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 04:56:23.236 NotebookApp] Replaying 3 buffered messages
+[I 04:56:44.510 NotebookApp] Saving file at /Boost.ipynb
+[I 04:57:34.539 NotebookApp] Saving file at /Vote.ipynb
+[I 04:59:34.537 NotebookApp] Saving file at /Vote.ipynb
+[I 05:03:34.583 NotebookApp] Saving file at /Vote.ipynb
+[I 05:07:34.529 NotebookApp] Saving file at /Vote.ipynb
+[I 10:02:14.929 NotebookApp] Starting buffering for 60cad98b-57ec-419e-bc62-4034f665ed44:a1c7a63c06454e39bdd9f261c76abc77
+[I 10:02:14.930 NotebookApp] Starting buffering for 751cf1fc-4811-40b4-9bf5-5c373f669b2f:b4b6da57aa634ea9adceae49b8d335a3
+[I 10:02:14.932 NotebookApp] Starting buffering for 4e962df1-c060-439f-867e-5432a4064e1c:4ca1413e8f1c4f06809eb37858f02b62
+[I 10:02:14.933 NotebookApp] Starting buffering for f22abc12-a862-4c2d-8657-eecbdcd7c9ab:c71efa272c934caebc0a579edc2920d5
+[I 10:02:14.935 NotebookApp] Starting buffering for c1fa4223-4082-4028-b67e-6af48bf3bbc9:293c491b43b249379a4dae3c821447de
+[I 10:02:14.935 NotebookApp] Starting buffering for 808f66c2-8c84-4398-ab1a-13154df6f8e2:06123404c75143db9efdc3b9484a3074
+[I 10:02:14.935 NotebookApp] Starting buffering for 508f7dc0-a796-4b32-bf5b-2d87e3dcb59d:a03b650e4ce042cd8ff299a21c6007bf
+[I 10:02:14.935 NotebookApp] Starting buffering for 875c6571-04eb-4bc9-98e4-43c942594090:8c01f1f364db412f89d7b2321d5a7038
+[I 10:02:14.935 NotebookApp] Starting buffering for e9d46bf1-94c4-45ea-bf85-fe04e6364887:c85a524a00f546069611695ba6c9a2a0
+[I 10:02:14.935 NotebookApp] Starting buffering for 39ed7246-4c5c-4666-a8a5-fe037eeb99fa:6d5b1f98c8d54bb18897baab2aa50af7
+[I 10:44:06.320 NotebookApp] Restoring connection for c1fa4223-4082-4028-b67e-6af48bf3bbc9:293c491b43b249379a4dae3c821447de
+[I 10:44:06.336 NotebookApp] Restoring connection for 60cad98b-57ec-419e-bc62-4034f665ed44:a1c7a63c06454e39bdd9f261c76abc77
+[I 10:44:06.360 NotebookApp] Restoring connection for 39ed7246-4c5c-4666-a8a5-fe037eeb99fa:6d5b1f98c8d54bb18897baab2aa50af7
+[I 10:44:06.376 NotebookApp] Restoring connection for e9d46bf1-94c4-45ea-bf85-fe04e6364887:c85a524a00f546069611695ba6c9a2a0
+[I 10:44:06.392 NotebookApp] Restoring connection for 4e962df1-c060-439f-867e-5432a4064e1c:4ca1413e8f1c4f06809eb37858f02b62
+[I 10:44:06.416 NotebookApp] Restoring connection for 508f7dc0-a796-4b32-bf5b-2d87e3dcb59d:a03b650e4ce042cd8ff299a21c6007bf
+[I 10:44:06.448 NotebookApp] Restoring connection for 808f66c2-8c84-4398-ab1a-13154df6f8e2:06123404c75143db9efdc3b9484a3074
+[I 10:44:06.480 NotebookApp] Restoring connection for 751cf1fc-4811-40b4-9bf5-5c373f669b2f:b4b6da57aa634ea9adceae49b8d335a3
+[I 10:44:06.512 NotebookApp] Restoring connection for f22abc12-a862-4c2d-8657-eecbdcd7c9ab:c71efa272c934caebc0a579edc2920d5
+[I 10:44:06.536 NotebookApp] Restoring connection for 875c6571-04eb-4bc9-98e4-43c942594090:8c01f1f364db412f89d7b2321d5a7038
+[W 10:47:34.528 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:47:34.528 NotebookApp] '_xsrf' argument missing from POST
+[W 10:47:34.528 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 10:49:35.495 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:49:35.495 NotebookApp] '_xsrf' argument missing from POST
+[W 10:49:35.496 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.940000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 10:51:35.498 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:51:35.498 NotebookApp] '_xsrf' argument missing from POST
+[W 10:51:35.499 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 0.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 10:53:35.512 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:53:35.512 NotebookApp] '_xsrf' argument missing from POST
+[W 10:53:35.513 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.040000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 10:55:35.502 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:55:35.503 NotebookApp] '_xsrf' argument missing from POST
+[W 10:55:35.503 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 10:57:34.525 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:57:34.525 NotebookApp] '_xsrf' argument missing from POST
+[W 10:57:34.525 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.590000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 10:59:34.523 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:59:34.524 NotebookApp] '_xsrf' argument missing from POST
+[W 10:59:34.524 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:01:34.523 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:01:34.523 NotebookApp] '_xsrf' argument missing from POST
+[W 11:01:34.523 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:03:34.532 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:03:34.532 NotebookApp] '_xsrf' argument missing from POST
+[W 11:03:34.532 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 0.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:05:35.502 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:05:35.502 NotebookApp] '_xsrf' argument missing from POST
+[W 11:05:35.502 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:07:35.492 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:07:35.492 NotebookApp] '_xsrf' argument missing from POST
+[W 11:07:35.493 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.950000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:09:35.488 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:09:35.488 NotebookApp] '_xsrf' argument missing from POST
+[W 11:09:35.489 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.010000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:11:35.501 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:11:35.501 NotebookApp] '_xsrf' argument missing from POST
+[W 11:11:35.501 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:13:35.493 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:13:35.494 NotebookApp] '_xsrf' argument missing from POST
+[W 11:13:35.494 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:15:35.501 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:15:35.501 NotebookApp] '_xsrf' argument missing from POST
+[W 11:15:35.501 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:17:35.493 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:17:35.493 NotebookApp] '_xsrf' argument missing from POST
+[W 11:17:35.493 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:19:35.493 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:19:35.493 NotebookApp] '_xsrf' argument missing from POST
+[W 11:19:35.493 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:21:35.530 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:21:35.530 NotebookApp] '_xsrf' argument missing from POST
+[W 11:21:35.530 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:23:35.518 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:23:35.518 NotebookApp] '_xsrf' argument missing from POST
+[W 11:23:35.519 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 4.030000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:25:35.515 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:25:35.515 NotebookApp] '_xsrf' argument missing from POST
+[W 11:25:35.515 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 8.040000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:27:35.524 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:27:35.524 NotebookApp] '_xsrf' argument missing from POST
+[W 11:27:35.532 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 8.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:29:35.515 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:29:35.515 NotebookApp] '_xsrf' argument missing from POST
+[W 11:29:35.515 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 0.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:31:35.512 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:31:35.513 NotebookApp] '_xsrf' argument missing from POST
+[W 11:31:35.514 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 3.830000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:33:35.520 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:33:35.520 NotebookApp] '_xsrf' argument missing from POST
+[W 11:33:35.522 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 5.290000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:35:35.508 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:35:35.512 NotebookApp] '_xsrf' argument missing from POST
+[W 11:35:35.512 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 4.470000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:37:35.529 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:37:35.529 NotebookApp] '_xsrf' argument missing from POST
+[W 11:37:35.533 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 4.430000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:39:34.551 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:39:34.552 NotebookApp] '_xsrf' argument missing from POST
+[W 11:39:34.554 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 7.980000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:41:35.525 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:41:35.525 NotebookApp] '_xsrf' argument missing from POST
+[W 11:41:35.525 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 4.230000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:43:35.492 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:43:35.492 NotebookApp] '_xsrf' argument missing from POST
+[W 11:43:35.493 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.030000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:45:34.526 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:45:34.527 NotebookApp] '_xsrf' argument missing from POST
+[W 11:45:34.527 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.030000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:47:35.500 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:47:35.501 NotebookApp] '_xsrf' argument missing from POST
+[W 11:47:35.501 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 0.970000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:48:43.973 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:48:43.973 NotebookApp] '_xsrf' argument missing from POST
+[W 11:48:43.973 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 11:49:35.501 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:49:35.501 NotebookApp] '_xsrf' argument missing from POST
+[W 11:49:35.502 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:50:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:50:43.964 NotebookApp] '_xsrf' argument missing from POST
+[W 11:50:43.965 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 11:51:35.553 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:51:35.554 NotebookApp] '_xsrf' argument missing from POST
+[W 11:51:35.554 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:52:43.972 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:52:43.973 NotebookApp] '_xsrf' argument missing from POST
+[W 11:52:43.973 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 11:53:35.494 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:53:35.494 NotebookApp] '_xsrf' argument missing from POST
+[W 11:53:35.495 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:54:44.501 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:54:44.501 NotebookApp] '_xsrf' argument missing from POST
+[W 11:54:44.502 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 11:55:35.502 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:55:35.503 NotebookApp] '_xsrf' argument missing from POST
+[W 11:55:35.503 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.020000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:56:44.504 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:56:44.504 NotebookApp] '_xsrf' argument missing from POST
+[W 11:56:44.504 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.010000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 11:57:35.492 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:57:35.492 NotebookApp] '_xsrf' argument missing from POST
+[W 11:57:35.492 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 11:58:43.962 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:58:43.962 NotebookApp] '_xsrf' argument missing from POST
+[W 11:58:43.963 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 11:59:35.499 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:59:35.499 NotebookApp] '_xsrf' argument missing from POST
+[W 11:59:35.500 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.040000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:00:44.501 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:00:44.501 NotebookApp] '_xsrf' argument missing from POST
+[W 12:00:44.502 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.010000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:01:35.501 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:01:35.501 NotebookApp] '_xsrf' argument missing from POST
+[W 12:01:35.501 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:02:44.522 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:02:44.522 NotebookApp] '_xsrf' argument missing from POST
+[W 12:02:44.522 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:03:35.500 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:03:35.501 NotebookApp] '_xsrf' argument missing from POST
+[W 12:03:35.501 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:04:43.962 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:04:43.962 NotebookApp] '_xsrf' argument missing from POST
+[W 12:04:43.962 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:05:35.495 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:05:35.495 NotebookApp] '_xsrf' argument missing from POST
+[W 12:05:35.496 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:06:43.965 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:06:43.965 NotebookApp] '_xsrf' argument missing from POST
+[W 12:06:43.966 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:07:35.499 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:07:35.499 NotebookApp] '_xsrf' argument missing from POST
+[W 12:07:35.499 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:08:19.251 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:08:19.251 NotebookApp] '_xsrf' argument missing from POST
+[W 12:08:19.252 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:08:44.489 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:08:44.489 NotebookApp] '_xsrf' argument missing from POST
+[W 12:08:44.489 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:09:35.495 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:09:35.495 NotebookApp] '_xsrf' argument missing from POST
+[W 12:09:35.496 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:10:19.247 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:10:19.247 NotebookApp] '_xsrf' argument missing from POST
+[W 12:10:19.248 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:10:44.501 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:10:44.502 NotebookApp] '_xsrf' argument missing from POST
+[W 12:10:44.502 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:11:35.505 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:11:35.505 NotebookApp] '_xsrf' argument missing from POST
+[W 12:11:35.505 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:12:19.497 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:12:19.497 NotebookApp] '_xsrf' argument missing from POST
+[W 12:12:19.498 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.020000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:12:43.961 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:12:43.961 NotebookApp] '_xsrf' argument missing from POST
+[W 12:12:43.961 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:13:35.497 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:13:35.497 NotebookApp] '_xsrf' argument missing from POST
+[W 12:13:35.498 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:14:19.499 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:14:19.499 NotebookApp] '_xsrf' argument missing from POST
+[W 12:14:19.499 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.020000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:14:43.966 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:14:43.966 NotebookApp] '_xsrf' argument missing from POST
+[W 12:14:43.966 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:15:35.489 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:15:35.489 NotebookApp] '_xsrf' argument missing from POST
+[W 12:15:35.490 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:16:19.503 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:16:19.503 NotebookApp] '_xsrf' argument missing from POST
+[W 12:16:19.504 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:16:43.970 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:16:43.970 NotebookApp] '_xsrf' argument missing from POST
+[W 12:16:43.970 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:17:35.493 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:17:35.494 NotebookApp] '_xsrf' argument missing from POST
+[W 12:17:35.494 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:18:19.504 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:18:19.504 NotebookApp] '_xsrf' argument missing from POST
+[W 12:18:19.505 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.040000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:18:43.963 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:18:43.963 NotebookApp] '_xsrf' argument missing from POST
+[W 12:18:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:19:35.491 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:19:35.491 NotebookApp] '_xsrf' argument missing from POST
+[W 12:19:35.491 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:20:19.493 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:20:19.493 NotebookApp] '_xsrf' argument missing from POST
+[W 12:20:19.494 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.010000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:20:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:20:43.964 NotebookApp] '_xsrf' argument missing from POST
+[W 12:20:43.965 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 0.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:21:35.511 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:21:35.511 NotebookApp] '_xsrf' argument missing from POST
+[W 12:21:35.512 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:22:19.499 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:22:19.499 NotebookApp] '_xsrf' argument missing from POST
+[W 12:22:19.500 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:22:43.969 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:22:43.969 NotebookApp] '_xsrf' argument missing from POST
+[W 12:22:43.969 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 0.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:23:35.498 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:23:35.498 NotebookApp] '_xsrf' argument missing from POST
+[W 12:23:35.499 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:24:19.494 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:24:19.494 NotebookApp] '_xsrf' argument missing from POST
+[W 12:24:19.495 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:24:43.961 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:24:43.961 NotebookApp] '_xsrf' argument missing from POST
+[W 12:24:43.962 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:25:35.499 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:25:35.500 NotebookApp] '_xsrf' argument missing from POST
+[W 12:25:35.500 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:26:19.493 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:26:19.493 NotebookApp] '_xsrf' argument missing from POST
+[W 12:26:19.494 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.020000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:26:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:26:43.964 NotebookApp] '_xsrf' argument missing from POST
+[W 12:26:43.965 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:27:35.508 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:27:35.508 NotebookApp] '_xsrf' argument missing from POST
+[W 12:27:35.509 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:28:19.488 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:28:19.488 NotebookApp] '_xsrf' argument missing from POST
+[W 12:28:19.489 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.050000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:28:43.977 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:28:43.978 NotebookApp] '_xsrf' argument missing from POST
+[W 12:28:43.978 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.010000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:29:35.498 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:29:35.498 NotebookApp] '_xsrf' argument missing from POST
+[W 12:29:35.498 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:30:19.489 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:30:19.489 NotebookApp] '_xsrf' argument missing from POST
+[W 12:30:19.489 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:30:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:30:43.964 NotebookApp] '_xsrf' argument missing from POST
+[W 12:30:43.965 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:31:35.491 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:31:35.491 NotebookApp] '_xsrf' argument missing from POST
+[W 12:31:35.492 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:32:19.496 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:32:19.496 NotebookApp] '_xsrf' argument missing from POST
+[W 12:32:19.496 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:32:43.968 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:32:43.968 NotebookApp] '_xsrf' argument missing from POST
+[W 12:32:43.969 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:33:35.495 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:33:35.495 NotebookApp] '_xsrf' argument missing from POST
+[W 12:33:35.496 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.030000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:34:19.494 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:34:19.495 NotebookApp] '_xsrf' argument missing from POST
+[W 12:34:19.495 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:34:43.963 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:34:43.964 NotebookApp] '_xsrf' argument missing from POST
+[W 12:34:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:35:35.502 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:35:35.502 NotebookApp] '_xsrf' argument missing from POST
+[W 12:35:35.502 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:36:19.494 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:36:19.494 NotebookApp] '_xsrf' argument missing from POST
+[W 12:36:19.494 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.030000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:36:43.966 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:36:43.966 NotebookApp] '_xsrf' argument missing from POST
+[W 12:36:43.966 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:37:35.495 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:37:35.495 NotebookApp] '_xsrf' argument missing from POST
+[W 12:37:35.495 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:38:19.502 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:38:19.502 NotebookApp] '_xsrf' argument missing from POST
+[W 12:38:19.502 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:38:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:38:43.964 NotebookApp] '_xsrf' argument missing from POST
+[W 12:38:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:39:35.502 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:39:35.502 NotebookApp] '_xsrf' argument missing from POST
+[W 12:39:35.502 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:40:19.498 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:40:19.498 NotebookApp] '_xsrf' argument missing from POST
+[W 12:40:19.498 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.020000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:40:43.961 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:40:43.961 NotebookApp] '_xsrf' argument missing from POST
+[W 12:40:43.961 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.010000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:41:35.496 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:41:35.497 NotebookApp] '_xsrf' argument missing from POST
+[W 12:41:35.497 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.020000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:42:19.500 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:42:19.501 NotebookApp] '_xsrf' argument missing from POST
+[W 12:42:19.501 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:42:43.963 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:42:43.963 NotebookApp] '_xsrf' argument missing from POST
+[W 12:42:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.020000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:43:35.503 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:43:35.503 NotebookApp] '_xsrf' argument missing from POST
+[W 12:43:35.504 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:44:43.960 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:44:43.960 NotebookApp] '_xsrf' argument missing from POST
+[W 12:44:43.961 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:44:54.494 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:44:54.494 NotebookApp] '_xsrf' argument missing from POST
+[W 12:44:54.495 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:45:37.503 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:45:37.503 NotebookApp] '_xsrf' argument missing from POST
+[W 12:45:37.503 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:46:19.502 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:46:19.502 NotebookApp] '_xsrf' argument missing from POST
+[W 12:46:19.503 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.970000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:46:43.966 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:46:43.967 NotebookApp] '_xsrf' argument missing from POST
+[W 12:46:43.967 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:47:35.497 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:47:35.498 NotebookApp] '_xsrf' argument missing from POST
+[W 12:47:35.498 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:48:19.491 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:48:19.491 NotebookApp] '_xsrf' argument missing from POST
+[W 12:48:19.491 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:48:43.959 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:48:43.959 NotebookApp] '_xsrf' argument missing from POST
+[W 12:48:43.959 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.010000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:49:35.496 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:49:35.496 NotebookApp] '_xsrf' argument missing from POST
+[W 12:49:35.496 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:50:19.502 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:50:19.503 NotebookApp] '_xsrf' argument missing from POST
+[W 12:50:19.503 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:50:43.968 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:50:43.968 NotebookApp] '_xsrf' argument missing from POST
+[W 12:50:43.969 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:51:35.496 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:51:35.496 NotebookApp] '_xsrf' argument missing from POST
+[W 12:51:35.497 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:52:19.494 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:52:19.494 NotebookApp] '_xsrf' argument missing from POST
+[W 12:52:19.494 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 0.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:52:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:52:43.965 NotebookApp] '_xsrf' argument missing from POST
+[W 12:52:43.965 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:53:35.496 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:53:35.497 NotebookApp] '_xsrf' argument missing from POST
+[W 12:53:35.497 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:54:19.502 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:54:19.503 NotebookApp] '_xsrf' argument missing from POST
+[W 12:54:19.503 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:54:43.959 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:54:43.959 NotebookApp] '_xsrf' argument missing from POST
+[W 12:54:43.960 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.030000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:55:35.511 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:55:35.511 NotebookApp] '_xsrf' argument missing from POST
+[W 12:55:35.512 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:56:19.493 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:56:19.493 NotebookApp] '_xsrf' argument missing from POST
+[W 12:56:19.493 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 0.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:56:43.966 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:56:43.966 NotebookApp] '_xsrf' argument missing from POST
+[W 12:56:43.967 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.050000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:57:35.507 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:57:35.507 NotebookApp] '_xsrf' argument missing from POST
+[W 12:57:35.508 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.070000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 12:58:19.504 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:58:19.504 NotebookApp] '_xsrf' argument missing from POST
+[W 12:58:19.505 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 12:58:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:58:43.964 NotebookApp] '_xsrf' argument missing from POST
+[W 12:58:43.964 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 12:59:35.506 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:59:35.506 NotebookApp] '_xsrf' argument missing from POST
+[W 12:59:35.507 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:00:19.494 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:00:19.494 NotebookApp] '_xsrf' argument missing from POST
+[W 13:00:19.495 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:00:43.980 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:00:43.980 NotebookApp] '_xsrf' argument missing from POST
+[W 13:00:43.980 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.080000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:01:35.497 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:01:35.498 NotebookApp] '_xsrf' argument missing from POST
+[W 13:01:35.498 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:02:19.509 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:02:19.509 NotebookApp] '_xsrf' argument missing from POST
+[W 13:02:19.510 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:02:43.995 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:02:43.995 NotebookApp] '_xsrf' argument missing from POST
+[W 13:02:43.995 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.020000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:03:35.519 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:03:35.519 NotebookApp] '_xsrf' argument missing from POST
+[W 13:03:35.519 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.020000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:04:19.537 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:04:19.537 NotebookApp] '_xsrf' argument missing from POST
+[W 13:04:19.537 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:04:44.000 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:04:44.000 NotebookApp] '_xsrf' argument missing from POST
+[W 13:04:44.001 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:05:35.545 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:05:35.545 NotebookApp] '_xsrf' argument missing from POST
+[W 13:05:35.546 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:06:19.560 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:06:19.561 NotebookApp] '_xsrf' argument missing from POST
+[W 13:06:19.561 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:06:44.036 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:06:44.036 NotebookApp] '_xsrf' argument missing from POST
+[W 13:06:44.037 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:07:35.574 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:07:35.574 NotebookApp] '_xsrf' argument missing from POST
+[W 13:07:35.574 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:08:19.583 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:08:19.583 NotebookApp] '_xsrf' argument missing from POST
+[W 13:08:19.584 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:08:44.062 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:08:44.062 NotebookApp] '_xsrf' argument missing from POST
+[W 13:08:44.062 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:09:35.608 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:09:35.608 NotebookApp] '_xsrf' argument missing from POST
+[W 13:09:35.609 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:10:19.614 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:10:19.614 NotebookApp] '_xsrf' argument missing from POST
+[W 13:10:19.614 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:10:44.082 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:10:44.082 NotebookApp] '_xsrf' argument missing from POST
+[W 13:10:44.082 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:11:35.626 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:11:35.626 NotebookApp] '_xsrf' argument missing from POST
+[W 13:11:35.627 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.970000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:12:19.641 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:12:19.641 NotebookApp] '_xsrf' argument missing from POST
+[W 13:12:19.641 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:12:44.112 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:12:44.113 NotebookApp] '_xsrf' argument missing from POST
+[W 13:12:44.113 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.980000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:13:35.661 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:13:35.661 NotebookApp] '_xsrf' argument missing from POST
+[W 13:13:35.662 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:14:19.662 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:14:19.662 NotebookApp] '_xsrf' argument missing from POST
+[W 13:14:19.663 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:14:44.139 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:14:44.139 NotebookApp] '_xsrf' argument missing from POST
+[W 13:14:44.140 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:15:35.689 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:15:35.689 NotebookApp] '_xsrf' argument missing from POST
+[W 13:15:35.689 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.030000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:16:19.694 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:16:19.694 NotebookApp] '_xsrf' argument missing from POST
+[W 13:16:19.695 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:16:44.173 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:16:44.174 NotebookApp] '_xsrf' argument missing from POST
+[W 13:16:44.174 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:17:35.715 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:17:35.715 NotebookApp] '_xsrf' argument missing from POST
+[W 13:17:35.716 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:18:19.735 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:18:19.735 NotebookApp] '_xsrf' argument missing from POST
+[W 13:18:19.735 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:18:44.200 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:18:44.200 NotebookApp] '_xsrf' argument missing from POST
+[W 13:18:44.201 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:19:35.746 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:19:35.746 NotebookApp] '_xsrf' argument missing from POST
+[W 13:19:35.747 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:20:19.751 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:20:19.751 NotebookApp] '_xsrf' argument missing from POST
+[W 13:20:19.752 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:20:44.215 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:20:44.215 NotebookApp] '_xsrf' argument missing from POST
+[W 13:20:44.216 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:21:35.758 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:21:35.758 NotebookApp] '_xsrf' argument missing from POST
+[W 13:21:35.758 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:22:19.764 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:22:19.765 NotebookApp] '_xsrf' argument missing from POST
+[W 13:22:19.765 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:22:44.240 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:22:44.240 NotebookApp] '_xsrf' argument missing from POST
+[W 13:22:44.240 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:23:35.787 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:23:35.787 NotebookApp] '_xsrf' argument missing from POST
+[W 13:23:35.787 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.030000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:24:19.782 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:24:19.783 NotebookApp] '_xsrf' argument missing from POST
+[W 13:24:19.783 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.020000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:24:44.276 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:24:44.276 NotebookApp] '_xsrf' argument missing from POST
+[W 13:24:44.276 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:25:35.798 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:25:35.798 NotebookApp] '_xsrf' argument missing from POST
+[W 13:25:35.799 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:26:19.807 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:26:19.807 NotebookApp] '_xsrf' argument missing from POST
+[W 13:26:19.808 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.970000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:26:44.281 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:26:44.281 NotebookApp] '_xsrf' argument missing from POST
+[W 13:26:44.281 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:27:35.818 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:27:35.818 NotebookApp] '_xsrf' argument missing from POST
+[W 13:27:35.819 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:28:19.830 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:28:19.830 NotebookApp] '_xsrf' argument missing from POST
+[W 13:28:19.831 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:28:44.304 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:28:44.304 NotebookApp] '_xsrf' argument missing from POST
+[W 13:28:44.305 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:29:35.844 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:29:35.844 NotebookApp] '_xsrf' argument missing from POST
+[W 13:29:35.845 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:30:19.854 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:30:19.855 NotebookApp] '_xsrf' argument missing from POST
+[W 13:30:19.855 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.960000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:30:44.318 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:30:44.318 NotebookApp] '_xsrf' argument missing from POST
+[W 13:30:44.319 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.020000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:31:35.859 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:31:35.859 NotebookApp] '_xsrf' argument missing from POST
+[W 13:31:35.859 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:32:19.874 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:32:19.874 NotebookApp] '_xsrf' argument missing from POST
+[W 13:32:19.875 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:32:44.352 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:32:44.352 NotebookApp] '_xsrf' argument missing from POST
+[W 13:32:44.353 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 3.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:33:35.902 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:33:35.902 NotebookApp] '_xsrf' argument missing from POST
+[W 13:33:35.903 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:34:19.910 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:34:19.910 NotebookApp] '_xsrf' argument missing from POST
+[W 13:34:19.911 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:34:44.368 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:34:44.368 NotebookApp] '_xsrf' argument missing from POST
+[W 13:34:44.369 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:35:35.936 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:35:35.936 NotebookApp] '_xsrf' argument missing from POST
+[W 13:35:35.937 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:36:19.913 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:36:19.913 NotebookApp] '_xsrf' argument missing from POST
+[W 13:36:19.914 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:36:44.375 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:36:44.375 NotebookApp] '_xsrf' argument missing from POST
+[W 13:36:44.375 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:37:35.926 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:37:35.927 NotebookApp] '_xsrf' argument missing from POST
+[W 13:37:35.927 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.040000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:38:19.922 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:38:19.922 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:19.923 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:38:21.916 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:21.916 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:21.917 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:38.089 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:38.090 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:38.090 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:38.836 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:38.836 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:38.836 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 0.960000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:39.048 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:39.049 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:39.049 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:39.262 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:39.262 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:39.263 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:39.461 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:39.461 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:39.461 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:39.666 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:39.666 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:39.666 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:39.880 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:39.880 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:39.880 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:40.079 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:40.079 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:40.079 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:40.291 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:40.291 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:40.292 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:40.504 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:40.504 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:40.504 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:40.703 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:40.703 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:40.703 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:40.916 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:40.916 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:40.917 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.020000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:41.129 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:41.129 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:41.130 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:41.328 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:41.328 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:41.329 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:41.541 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:41.542 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:41.542 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:41.755 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:41.755 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:41.755 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:41.954 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:41.955 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:41.955 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.020000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:42.167 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:42.167 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:42.167 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:42.386 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:42.386 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:42.387 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:42.607 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:42.607 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:42.608 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:42.834 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:42.834 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:42.834 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 0.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:43.054 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:43.054 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:43.055 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:43.260 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:43.261 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:43.261 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:43.487 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:43.487 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:43.488 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:43.715 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:43.715 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:43.716 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.010000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:43.921 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:43.921 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:43.922 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:44.119 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:44.119 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:44.120 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.020000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:44.346 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:44.346 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:44.346 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:44.385 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:38:44.385 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:44.386 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:45.865 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:45.865 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:45.866 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:46.065 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:46.065 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:46.066 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:46.265 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:46.265 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:46.265 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:46.466 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1): '_xsrf' argument missing from POST
+[W 13:38:46.466 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:46.467 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/interrupt (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[I 13:38:51.136 NotebookApp] Starting buffering for 808f66c2-8c84-4398-ab1a-13154df6f8e2:06123404c75143db9efdc3b9484a3074
+[W 13:38:51.139 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/restart (::1): '_xsrf' argument missing from POST
+[W 13:38:51.139 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:51.139 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/restart (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:51.148 NotebookApp] 403 DELETE /api/sessions/89ae5958-aa28-4222-bb45-9a0afa957183 (::1): '_xsrf' argument missing from POST
+[W 13:38:51.148 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:51.149 NotebookApp] 403 DELETE /api/sessions/89ae5958-aa28-4222-bb45-9a0afa957183 (::1) 3.010000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:51.157 NotebookApp] 403 POST /api/sessions (::1): '_xsrf' argument missing from POST
+[W 13:38:51.157 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:51.157 NotebookApp] 403 POST /api/sessions (::1) 2.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:59.495 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/restart (::1): '_xsrf' argument missing from POST
+[W 13:38:59.495 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:59.495 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/restart (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:59.502 NotebookApp] 403 DELETE /api/sessions/89ae5958-aa28-4222-bb45-9a0afa957183 (::1): '_xsrf' argument missing from POST
+[W 13:38:59.503 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:59.503 NotebookApp] 403 DELETE /api/sessions/89ae5958-aa28-4222-bb45-9a0afa957183 (::1) 2.040000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:38:59.509 NotebookApp] 403 POST /api/sessions (::1): '_xsrf' argument missing from POST
+[W 13:38:59.509 NotebookApp] '_xsrf' argument missing from POST
+[W 13:38:59.510 NotebookApp] 403 POST /api/sessions (::1) 2.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:39:04.218 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/restart (::1): '_xsrf' argument missing from POST
+[W 13:39:04.218 NotebookApp] '_xsrf' argument missing from POST
+[W 13:39:04.218 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/restart (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:39:04.227 NotebookApp] 403 DELETE /api/sessions/89ae5958-aa28-4222-bb45-9a0afa957183 (::1): '_xsrf' argument missing from POST
+[W 13:39:04.227 NotebookApp] '_xsrf' argument missing from POST
+[W 13:39:04.227 NotebookApp] 403 DELETE /api/sessions/89ae5958-aa28-4222-bb45-9a0afa957183 (::1) 1.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:39:04.232 NotebookApp] 403 POST /api/sessions (::1): '_xsrf' argument missing from POST
+[W 13:39:04.232 NotebookApp] '_xsrf' argument missing from POST
+[W 13:39:04.233 NotebookApp] 403 POST /api/sessions (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:39:06.458 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/restart (::1): '_xsrf' argument missing from POST
+[W 13:39:06.458 NotebookApp] '_xsrf' argument missing from POST
+[W 13:39:06.459 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/restart (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:39:06.468 NotebookApp] 403 DELETE /api/sessions/89ae5958-aa28-4222-bb45-9a0afa957183 (::1): '_xsrf' argument missing from POST
+[W 13:39:06.468 NotebookApp] '_xsrf' argument missing from POST
+[W 13:39:06.469 NotebookApp] 403 DELETE /api/sessions/89ae5958-aa28-4222-bb45-9a0afa957183 (::1) 2.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:39:06.474 NotebookApp] 403 POST /api/sessions (::1): '_xsrf' argument missing from POST
+[W 13:39:06.475 NotebookApp] '_xsrf' argument missing from POST
+[W 13:39:06.475 NotebookApp] 403 POST /api/sessions (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[I 13:39:08.858 NotebookApp] Restoring connection for 808f66c2-8c84-4398-ab1a-13154df6f8e2:06123404c75143db9efdc3b9484a3074
+[I 13:39:13.905 NotebookApp] Starting buffering for 808f66c2-8c84-4398-ab1a-13154df6f8e2:06123404c75143db9efdc3b9484a3074
+[W 13:39:13.909 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/restart (::1): '_xsrf' argument missing from POST
+[W 13:39:13.910 NotebookApp] '_xsrf' argument missing from POST
+[W 13:39:13.910 NotebookApp] 403 POST /api/kernels/808f66c2-8c84-4398-ab1a-13154df6f8e2/restart (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:39:13.920 NotebookApp] 403 DELETE /api/sessions/89ae5958-aa28-4222-bb45-9a0afa957183 (::1): '_xsrf' argument missing from POST
+[W 13:39:13.921 NotebookApp] '_xsrf' argument missing from POST
+[W 13:39:13.921 NotebookApp] 403 DELETE /api/sessions/89ae5958-aa28-4222-bb45-9a0afa957183 (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:39:13.929 NotebookApp] 403 POST /api/sessions (::1): '_xsrf' argument missing from POST
+[W 13:39:13.929 NotebookApp] '_xsrf' argument missing from POST
+[W 13:39:13.929 NotebookApp] 403 POST /api/sessions (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:39:30.961 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:39:30.962 NotebookApp] '_xsrf' argument missing from POST
+[W 13:39:30.962 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:39:35.942 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:39:35.942 NotebookApp] '_xsrf' argument missing from POST
+[W 13:39:35.943 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.990000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:40:17.374 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:40:17.374 NotebookApp] '_xsrf' argument missing from POST
+[W 13:40:17.375 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 2.020000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:40:18.590 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:40:18.590 NotebookApp] '_xsrf' argument missing from POST
+[W 13:40:18.591 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:40:19.681 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:40:19.681 NotebookApp] '_xsrf' argument missing from POST
+[W 13:40:19.682 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[W 13:40:28.593 NotebookApp] 403 PUT /api/contents/Random%20Forests.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:40:28.593 NotebookApp] '_xsrf' argument missing from POST
+[W 13:40:28.593 NotebookApp] 403 PUT /api/contents/Random%20Forests.ipynb (::1) 1.040000ms referer=http://localhost:8888/notebooks/Random%20Forests.ipynb
+[W 13:40:44.944 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:40:44.945 NotebookApp] '_xsrf' argument missing from POST
+[W 13:40:44.945 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 1.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:41:24.068 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:41:24.069 NotebookApp] '_xsrf' argument missing from POST
+[W 13:41:24.069 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:41:35.944 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:41:35.944 NotebookApp] '_xsrf' argument missing from POST
+[W 13:41:35.944 NotebookApp] 403 PUT /api/contents/Vote.ipynb (::1) 2.000000ms referer=http://localhost:8888/notebooks/Vote.ipynb
+[W 13:41:36.934 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:41:36.934 NotebookApp] '_xsrf' argument missing from POST
+[W 13:41:36.934 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 0.990000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[I 13:41:50.204 NotebookApp] Starting buffering for 751cf1fc-4811-40b4-9bf5-5c373f669b2f:b4b6da57aa634ea9adceae49b8d335a3
+[W 13:41:50.222 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:41:50.222 NotebookApp] '_xsrf' argument missing from POST
+[W 13:41:50.223 NotebookApp] 403 PUT /api/contents/KNN.ipynb (::1) 3.990000ms referer=http://localhost:8888/notebooks/KNN.ipynb
+[I 13:42:00.046 NotebookApp] Starting buffering for 60cad98b-57ec-419e-bc62-4034f665ed44:a1c7a63c06454e39bdd9f261c76abc77
+[I 13:42:06.666 NotebookApp] Starting buffering for 39ed7246-4c5c-4666-a8a5-fe037eeb99fa:6d5b1f98c8d54bb18897baab2aa50af7
+[I 13:42:09.061 NotebookApp] Starting buffering for e9d46bf1-94c4-45ea-bf85-fe04e6364887:c85a524a00f546069611695ba6c9a2a0
+[I 13:42:11.157 NotebookApp] Starting buffering for 875c6571-04eb-4bc9-98e4-43c942594090:8c01f1f364db412f89d7b2321d5a7038
+[I 13:42:13.209 NotebookApp] Starting buffering for 508f7dc0-a796-4b32-bf5b-2d87e3dcb59d:a03b650e4ce042cd8ff299a21c6007bf
+[I 13:42:20.240 NotebookApp] Starting buffering for f22abc12-a862-4c2d-8657-eecbdcd7c9ab:c71efa272c934caebc0a579edc2920d5
+[W 13:42:44.960 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1): '_xsrf' argument missing from POST
+[W 13:42:44.960 NotebookApp] '_xsrf' argument missing from POST
+[W 13:42:44.961 NotebookApp] 403 PUT /api/contents/Boost.ipynb (::1) 2.030000ms referer=http://localhost:8888/notebooks/Boost.ipynb
+[W 13:42:47.848 NotebookApp] 403 POST /api/shutdown (::1): '_xsrf' argument missing from POST
+[W 13:42:47.865 NotebookApp] 403 POST /api/shutdown (::1) 18.990000ms referer=http://localhost:8888/tree
+[I 13:42:51.235 NotebookApp] Shutting down on /api/shutdown request.
+[I 13:42:51.239 NotebookApp] Shutting down 10 kernels
+QSocketNotifier: Multiple socket notifiers for same socket 1000 and type Read
+QSocketNotifier: Multiple socket notifiers for same socket 952 and type Read
+[I 13:42:54.382 NotebookApp] Kernel shutdown: c1fa4223-4082-4028-b67e-6af48bf3bbc9
+[I 13:42:54.709 NotebookApp] Kernel shutdown: 508f7dc0-a796-4b32-bf5b-2d87e3dcb59d
+[I 13:42:54.925 NotebookApp] Kernel shutdown: 875c6571-04eb-4bc9-98e4-43c942594090
+[I 13:42:57.748 NotebookApp] Kernel shutdown: e9d46bf1-94c4-45ea-bf85-fe04e6364887
+[I 13:42:57.749 NotebookApp] Kernel shutdown: 39ed7246-4c5c-4666-a8a5-fe037eeb99fa
+[I 13:43:00.582 NotebookApp] Kernel shutdown: 808f66c2-8c84-4398-ab1a-13154df6f8e2
+[I 13:43:03.420 NotebookApp] Kernel shutdown: 4e962df1-c060-439f-867e-5432a4064e1c
+[I 13:43:03.422 NotebookApp] Kernel shutdown: 751cf1fc-4811-40b4-9bf5-5c373f669b2f
+[I 13:43:03.423 NotebookApp] Kernel shutdown: f22abc12-a862-4c2d-8657-eecbdcd7c9ab
+[I 13:43:03.423 NotebookApp] Kernel shutdown: 60cad98b-57ec-419e-bc62-4034f665ed44
+[I 13:43:03.424 NotebookApp] Shutting down 0 terminals
+[I 13:43:03.433 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[E 13:43:03.433 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x000001DB0C79ABB0>>
+    Traceback (most recent call last):
+      File "C:\anaconda3\lib\site-packages\tornado\ioloop.py", line 905, in _run
+        return self.callback()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\restarter.py", line 116, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 503, in restart_kernel
+        self.shutdown_kernel(now=now, restart=True)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 441, in shutdown_kernel
+        self.interrupt_kernel()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 597, in interrupt_kernel
+        raise RuntimeError("Cannot interrupt kernel. No kernel is running!")
+    RuntimeError: Cannot interrupt kernel. No kernel is running!
+[I 13:43:03.453 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel c1fa4223-4082-4028-b67e-6af48bf3bbc9 restarted
+[E 13:43:03.456 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x000001DB0C74C850>>
+    Traceback (most recent call last):
+      File "C:\anaconda3\lib\site-packages\tornado\ioloop.py", line 905, in _run
+        return self.callback()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\restarter.py", line 116, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 503, in restart_kernel
+        self.shutdown_kernel(now=now, restart=True)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 441, in shutdown_kernel
+        self.interrupt_kernel()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 597, in interrupt_kernel
+        raise RuntimeError("Cannot interrupt kernel. No kernel is running!")
+    RuntimeError: Cannot interrupt kernel. No kernel is running!
+[I 13:43:03.458 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[E 13:43:03.458 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x000001DB0C799A60>>
+    Traceback (most recent call last):
+      File "C:\anaconda3\lib\site-packages\tornado\ioloop.py", line 905, in _run
+        return self.callback()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\restarter.py", line 116, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 503, in restart_kernel
+        self.shutdown_kernel(now=now, restart=True)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 441, in shutdown_kernel
+        self.interrupt_kernel()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 597, in interrupt_kernel
+        raise RuntimeError("Cannot interrupt kernel. No kernel is running!")
+    RuntimeError: Cannot interrupt kernel. No kernel is running!
+[I 13:43:03.458 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[E 13:43:03.458 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x000001DB0C78EF40>>
+    Traceback (most recent call last):
+      File "C:\anaconda3\lib\site-packages\tornado\ioloop.py", line 905, in _run
+        return self.callback()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\restarter.py", line 116, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 503, in restart_kernel
+        self.shutdown_kernel(now=now, restart=True)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 441, in shutdown_kernel
+        self.interrupt_kernel()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 597, in interrupt_kernel
+        raise RuntimeError("Cannot interrupt kernel. No kernel is running!")
+    RuntimeError: Cannot interrupt kernel. No kernel is running!
+[I 13:43:03.459 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[E 13:43:03.459 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x000001DB0C9B0F40>>
+    Traceback (most recent call last):
+      File "C:\anaconda3\lib\site-packages\tornado\ioloop.py", line 905, in _run
+        return self.callback()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\restarter.py", line 116, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 503, in restart_kernel
+        self.shutdown_kernel(now=now, restart=True)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 441, in shutdown_kernel
+        self.interrupt_kernel()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 597, in interrupt_kernel
+        raise RuntimeError("Cannot interrupt kernel. No kernel is running!")
+    RuntimeError: Cannot interrupt kernel. No kernel is running!
+[I 13:43:03.460 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[E 13:43:03.460 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x000001DB0C9B03A0>>
+    Traceback (most recent call last):
+      File "C:\anaconda3\lib\site-packages\tornado\ioloop.py", line 905, in _run
+        return self.callback()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\restarter.py", line 116, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 503, in restart_kernel
+        self.shutdown_kernel(now=now, restart=True)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 441, in shutdown_kernel
+        self.interrupt_kernel()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 597, in interrupt_kernel
+        raise RuntimeError("Cannot interrupt kernel. No kernel is running!")
+    RuntimeError: Cannot interrupt kernel. No kernel is running!
+[I 13:43:03.461 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[E 13:43:03.461 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x000001DB0C8B6EB0>>
+    Traceback (most recent call last):
+      File "C:\anaconda3\lib\site-packages\tornado\ioloop.py", line 905, in _run
+        return self.callback()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\restarter.py", line 116, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 503, in restart_kernel
+        self.shutdown_kernel(now=now, restart=True)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 441, in shutdown_kernel
+        self.interrupt_kernel()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 597, in interrupt_kernel
+        raise RuntimeError("Cannot interrupt kernel. No kernel is running!")
+    RuntimeError: Cannot interrupt kernel. No kernel is running!
+[I 13:43:03.462 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[E 13:43:03.462 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x000001DB0AF0B1C0>>
+    Traceback (most recent call last):
+      File "C:\anaconda3\lib\site-packages\tornado\ioloop.py", line 905, in _run
+        return self.callback()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\restarter.py", line 116, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 503, in restart_kernel
+        self.shutdown_kernel(now=now, restart=True)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 441, in shutdown_kernel
+        self.interrupt_kernel()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 597, in interrupt_kernel
+        raise RuntimeError("Cannot interrupt kernel. No kernel is running!")
+    RuntimeError: Cannot interrupt kernel. No kernel is running!
+[I 13:43:03.462 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[E 13:43:03.462 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x000001DB0C9748E0>>
+    Traceback (most recent call last):
+      File "C:\anaconda3\lib\site-packages\tornado\ioloop.py", line 905, in _run
+        return self.callback()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\restarter.py", line 116, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 503, in restart_kernel
+        self.shutdown_kernel(now=now, restart=True)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 441, in shutdown_kernel
+        self.interrupt_kernel()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 597, in interrupt_kernel
+        raise RuntimeError("Cannot interrupt kernel. No kernel is running!")
+    RuntimeError: Cannot interrupt kernel. No kernel is running!
+[I 13:43:03.463 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 4e962df1-c060-439f-867e-5432a4064e1c restarted
+[E 13:43:03.465 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x000001DB0C81F0A0>>
+    Traceback (most recent call last):
+      File "C:\anaconda3\lib\site-packages\tornado\ioloop.py", line 905, in _run
+        return self.callback()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\restarter.py", line 116, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 503, in restart_kernel
+        self.shutdown_kernel(now=now, restart=True)
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 441, in shutdown_kernel
+        self.interrupt_kernel()
+      File "C:\anaconda3\lib\site-packages\jupyter_client\manager.py", line 597, in interrupt_kernel
+        raise RuntimeError("Cannot interrupt kernel. No kernel is running!")
+    RuntimeError: Cannot interrupt kernel. No kernel is running!
+[I 2022-04-21 13:44:07.819 LabApp] JupyterLab extension loaded from C:\anaconda3\lib\site-packages\jupyterlab
+[I 2022-04-21 13:44:07.819 LabApp] JupyterLab application directory is C:\anaconda3\share\jupyter\lab
+[I 13:44:07.824 NotebookApp] Serving notebooks from local directory: C:\DataScience\Flatiron\Projects\Phase3\chicago_crush_analysis\notebooks
+[I 13:44:07.824 NotebookApp] Jupyter Notebook 6.4.5 is running at:
+[I 13:44:07.824 NotebookApp] http://localhost:8888/?token=bcc391ceef1ac03a38e6840aed964763a2d5f23ce29ea068
+[I 13:44:07.824 NotebookApp]  or http://127.0.0.1:8888/?token=bcc391ceef1ac03a38e6840aed964763a2d5f23ce29ea068
+[I 13:44:07.824 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:44:07.913 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Dima%20Fisch/AppData/Roaming/jupyter/runtime/nbserver-23192-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=bcc391ceef1ac03a38e6840aed964763a2d5f23ce29ea068
+     or http://127.0.0.1:8888/?token=bcc391ceef1ac03a38e6840aed964763a2d5f23ce29ea068
+[W 13:44:25.233 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 13:44:25.620 NotebookApp] Kernel started: 40b5b7cf-8697-4ead-bf57-262abbecfdbd, name: python3
+[I 13:44:44.963 NotebookApp] Saving file at /Boost.ipynb
+[W 13:44:53.610 NotebookApp] 404 DELETE /api/sessions/9b496abe-636e-4b52-8b02-1e95e074e5cd (::1): Session not found: session_id='9b496abe-636e-4b52-8b02-1e95e074e5cd'
+[W 13:44:53.610 NotebookApp] Session not found: session_id='9b496abe-636e-4b52-8b02-1e95e074e5cd'
+[W 13:44:53.611 NotebookApp] 404 DELETE /api/sessions/9b496abe-636e-4b52-8b02-1e95e074e5cd (::1) 2.990000ms referer=http://localhost:8888/notebooks/various_models_tests.ipynb
+[I 13:44:53.643 NotebookApp] Kernel started: b413b062-3c46-4632-9f19-f3fc9080e8c8, name: python3
+[I 13:46:33.615 NotebookApp] Saving file at /Boost.ipynb
+[W 13:46:33.615 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 13:48:25.549 NotebookApp] Saving file at /Boost.ipynb
+[W 13:48:25.549 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 13:50:25.570 NotebookApp] Saving file at /Boost.ipynb
+[W 13:50:25.570 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 13:52:25.604 NotebookApp] Saving file at /Boost.ipynb
+[W 13:52:25.605 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 13:54:25.599 NotebookApp] Saving file at /Boost.ipynb
+[W 13:54:25.599 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 13:56:25.623 NotebookApp] Saving file at /Boost.ipynb
+[W 13:56:25.623 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 13:58:25.635 NotebookApp] Saving file at /Boost.ipynb
+[W 13:58:25.636 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:00:25.637 NotebookApp] Saving file at /Boost.ipynb
+[W 14:00:25.638 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:02:25.671 NotebookApp] Saving file at /Boost.ipynb
+[W 14:02:25.672 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:04:25.658 NotebookApp] Saving file at /Boost.ipynb
+[W 14:04:25.659 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:06:25.675 NotebookApp] Saving file at /Boost.ipynb
+[W 14:06:25.675 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:08:25.685 NotebookApp] Saving file at /Boost.ipynb
+[W 14:08:25.686 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:10:25.711 NotebookApp] Saving file at /Boost.ipynb
+[W 14:10:25.711 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:12:25.712 NotebookApp] Saving file at /Boost.ipynb
+[W 14:12:25.712 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:16:25.728 NotebookApp] Saving file at /Boost.ipynb
+[W 14:16:25.728 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:18:12.248 NotebookApp] Saving file at /Boost.ipynb
+[W 14:18:12.248 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:18:25.743 NotebookApp] Saving file at /Boost.ipynb
+[W 14:18:25.744 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:20:25.733 NotebookApp] Saving file at /Boost.ipynb
+[W 14:20:25.734 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:22:25.736 NotebookApp] Saving file at /Boost.ipynb
+[W 14:22:25.736 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:24:25.748 NotebookApp] Saving file at /Boost.ipynb
+[W 14:24:25.749 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:26:25.750 NotebookApp] Saving file at /Boost.ipynb
+[W 14:26:25.750 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:28:25.770 NotebookApp] Saving file at /Boost.ipynb
+[W 14:28:25.771 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:30:25.760 NotebookApp] Saving file at /Boost.ipynb
+[W 14:30:25.760 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:32:25.770 NotebookApp] Saving file at /Boost.ipynb
+[W 14:32:25.770 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:36:25.800 NotebookApp] Saving file at /Boost.ipynb
+[W 14:36:25.800 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:38:25.822 NotebookApp] Saving file at /Boost.ipynb
+[W 14:38:25.823 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:40:26.349 NotebookApp] Saving file at /Boost.ipynb
+[W 14:40:26.350 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:42:25.832 NotebookApp] Saving file at /Boost.ipynb
+[W 14:42:25.833 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:44:25.849 NotebookApp] Saving file at /Boost.ipynb
+[W 14:44:25.850 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:46:25.900 NotebookApp] Saving file at /Boost.ipynb
+[W 14:46:25.901 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:48:25.831 NotebookApp] Saving file at /Boost.ipynb
+[W 14:48:25.832 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:50:25.840 NotebookApp] Saving file at /Boost.ipynb
+[W 14:50:25.841 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:52:25.838 NotebookApp] Saving file at /Boost.ipynb
+[W 14:52:25.838 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:54:25.834 NotebookApp] Saving file at /Boost.ipynb
+[W 14:54:25.834 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:56:25.830 NotebookApp] Saving file at /Boost.ipynb
+[W 14:56:25.831 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 14:58:25.822 NotebookApp] Saving file at /Boost.ipynb
+[W 14:58:25.822 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 15:00:25.828 NotebookApp] Saving file at /Boost.ipynb
+[W 15:00:25.828 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 15:08:25.842 NotebookApp] Saving file at /Boost.ipynb
+[W 15:08:25.842 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 15:10:25.838 NotebookApp] Saving file at /Boost.ipynb
+[W 15:10:25.839 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 15:12:26.295 NotebookApp] Saving file at /Boost.ipynb
+[W 15:12:26.296 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 15:16:26.305 NotebookApp] Saving file at /Boost.ipynb
+[W 15:16:26.305 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 15:18:26.300 NotebookApp] Saving file at /Boost.ipynb
+[W 15:18:26.300 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 15:20:25.853 NotebookApp] Saving file at /Boost.ipynb
+[W 15:20:25.853 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 15:22:25.852 NotebookApp] Saving file at /Boost.ipynb
+[W 15:22:25.852 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 15:24:25.870 NotebookApp] Saving file at /Boost.ipynb
+[W 15:24:25.870 NotebookApp] Notebook Boost.ipynb is not trusted
+[W 15:25:01.922 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:27:03.324 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:27:03.324 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:29:03.334 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:29:03.335 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:30:26.307 NotebookApp] Saving file at /Boost.ipynb
+[W 15:30:26.307 NotebookApp] Notebook Boost.ipynb is not trusted
+[I 15:31:02.413 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:31:02.414 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:31:29.530 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:31:29.531 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:33:03.321 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:33:03.323 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:35:02.421 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:35:02.422 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:35:34.312 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:35:34.312 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:37:02.426 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:37:02.427 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:39:02.425 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:39:02.426 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:39:10.049 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:39:10.050 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:41:03.332 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:41:03.333 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:43:02.427 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:43:02.428 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:45:02.424 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:45:02.424 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:47:03.324 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:47:03.325 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 15:59:02.447 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 15:59:02.447 NotebookApp] Notebook various_models_tests.ipynb is not trusted
+[I 16:01:02.430 NotebookApp] Saving file at /various_models_tests.ipynb
+[I 16:01:25.201 NotebookApp] Saving file at /various_models_tests.ipynb
+[W 16:02:47.817 NotebookApp] Notebook BaseModel.ipynb is not trusted
+[I 16:02:48.309 NotebookApp] Kernel started: 8598ddaa-fc1a-49cc-94ef-fd0c880743c1, name: python3
+[I 16:04:48.276 NotebookApp] Saving file at /BaseModel.ipynb
+[W 16:04:48.277 NotebookApp] Notebook BaseModel.ipynb is not trusted
+[I 16:06:48.282 NotebookApp] Saving file at /BaseModel.ipynb
+[W 16:06:48.282 NotebookApp] Notebook BaseModel.ipynb is not trusted
+[I 16:07:40.568 NotebookApp] Saving file at /BaseModel.ipynb
+[W 16:07:40.568 NotebookApp] Notebook BaseModel.ipynb is not trusted
+[I 16:07:50.633 NotebookApp] Kernel interrupted: 8598ddaa-fc1a-49cc-94ef-fd0c880743c1
+[I 16:08:48.277 NotebookApp] Saving file at /BaseModel.ipynb
+[W 16:08:48.277 NotebookApp] Notebook BaseModel.ipynb is not trusted
+[I 16:12:48.285 NotebookApp] Saving file at /BaseModel.ipynb
+[W 16:12:48.286 NotebookApp] Notebook BaseModel.ipynb is not trusted
+[I 16:16:48.290 NotebookApp] Saving file at /BaseModel.ipynb
+[W 16:16:48.290 NotebookApp] Notebook BaseModel.ipynb is not trusted
+[I 16:18:48.271 NotebookApp] Saving file at /BaseModel.ipynb
+[I 16:26:48.290 NotebookApp] Saving file at /BaseModel.ipynb
+[I 16:28:48.287 NotebookApp] Saving file at /BaseModel.ipynb
+[I 16:32:48.279 NotebookApp] Saving file at /BaseModel.ipynb
+[I 16:34:48.274 NotebookApp] Saving file at /BaseModel.ipynb
+[I 16:36:48.295 NotebookApp] Saving file at /BaseModel.ipynb
+[I 17:19:08.366 NotebookApp] Starting buffering for 8598ddaa-fc1a-49cc-94ef-fd0c880743c1:25822c813b9a4cb4ba61e794c2052729
+[I 17:19:08.368 NotebookApp] Starting buffering for b413b062-3c46-4632-9f19-f3fc9080e8c8:e92a7e2da00149d7a818ba4ee36a40a2
+[I 17:19:08.369 NotebookApp] Starting buffering for 40b5b7cf-8697-4ead-bf57-262abbecfdbd:e0e89bf5cce542b38fa4321a363adc99
+[I 17:41:10.404 NotebookApp] Restoring connection for b413b062-3c46-4632-9f19-f3fc9080e8c8:e92a7e2da00149d7a818ba4ee36a40a2
+[I 17:41:10.424 NotebookApp] Restoring connection for 8598ddaa-fc1a-49cc-94ef-fd0c880743c1:25822c813b9a4cb4ba61e794c2052729
+[I 17:41:10.453 NotebookApp] Restoring connection for 40b5b7cf-8697-4ead-bf57-262abbecfdbd:e0e89bf5cce542b38fa4321a363adc99
