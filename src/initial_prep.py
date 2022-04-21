@@ -38,7 +38,7 @@ def initial_join (Crashes, Vehicle, People):
     Vehicle=Vehicle[Vehicle['VEHICLE_YEAR']>1900]
 
     Vehicle=Vehicle.copy()
-    vehicle_age=[oldest-1, latest-25, latest-15, latest-8, latest-3, latest ]
+    vehicle_age=[oldest-2, latest-25, latest-15, latest-8, latest-3, latest+1 ]
     vehicle_age_labels=['25+ years old', '15-25 years old','8-15 years old','3-8 years old','0-3 years old']
     Vehicle['VEHICLE_AGE'] = pd.cut(x=Vehicle['VEHICLE_YEAR'], bins=vehicle_age, labels=vehicle_age_labels, right=False)
 
@@ -52,7 +52,7 @@ def initial_join (Crashes, Vehicle, People):
     People=People.query('SEX!="X"')
 
     People=People.copy()
-    People['AGE_GROUP'] = pd.cut(x=People['AGE'], bins=[15, 24, 35, 55, 70, 80, 100],
+    People['AGE_GROUP'] = pd.cut(x=People['AGE'], bins=[14, 24, 35, 55, 70, 80, 100],
                              labels=['YOUNG', 'YOUNG ADULTS','ADULTS','MIDDLE AGED','SENIORS', '80+'])
 
     ## concatinating 3 dataframes
