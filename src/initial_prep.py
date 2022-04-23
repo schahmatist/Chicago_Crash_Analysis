@@ -4,32 +4,13 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta, timezone, date
-from pysolar.solar import *
-from zoneinfo import ZoneInfo
-from dateutil import tz
-
 
 pd.set_option('display.max_columns', 80)
 pd.set_option('display.max_rows', 200)
 
-def get_sun_position (lat,long,date, direction, light, sun):
-    az=get_azimuth_fast(lat, long, date)
-    alt=get_altitude_fast(lat, long, date)
-    glare=0
-    if  alt < 40 and alt > 0 and light == 'DAYLIGHT' and sun == 'CLEAR':
-        if az <= 180 and direction in ('E','SE','S'):
-            glare=1
-        elif az >= 180 and direction in ('W','SW','S'):
-            glare=1
-        else: glare=0
-    return pd.Series([glare, az,alt])
-
-
 def initial_join (Crashes, Vehicle, People):
 
 # INITIAL FILTERING BEFORE the JOIN
-#    Crashes=Crashes[Crashes['REPORT_TYPE']=='ON SCENE']
-#    Crashes=Crashes.query("CRASH_TYPE == 'INJURY AND / OR TOW DUE TO CRASH'")
 
     latest=date.today().year
     oldest=Vehicle['VEHICLE_YEAR'].min()
@@ -43,6 +24,7 @@ def initial_join (Crashes, Vehicle, People):
     Vehicle['VEHICLE_AGE'] = pd.cut(x=Vehicle['VEHICLE_YEAR'], bins=vehicle_age, labels=vehicle_age_labels, right=False)
 
     Vehicle.dropna(subset=['FIRST_CONTACT_POINT'], inplace=True)
+
     veh_type=['PASSENGER','SPORT UTILITY VEHICLE (SUV)','VAN/MINI-VAN','PICKUP','TRUCK - SINGLE UNIT','BUS OVER 15 PASS.']
     Vehicle=Vehicle[Vehicle['VEHICLE_TYPE'].isin(veh_type)]
 
@@ -123,38 +105,25 @@ all_df['GUILTY']=all_df.apply(lambda row: create_target(row['DRIVER_ACTION'], ro
 
 ## DROPPING UNKNOWN VALUES IN PREDICTORS
 
-unknown = ['PHYSICAL_CONDITION', 'VEHICLE_DEFECT', 'FIRST_CONTACT_POINT', 'TRAFFIC_CONTROL_DEVICE', 'DEVICE_CONDITION', 'WEATHER_CONDITION', 
-        'LIGHTING_CONDITION', 'TRAFFICWAY_TYPE', 'ROADWAY_SURFACE_COND', 'ROAD_DEFECT', 'DRIVER_VISION', 'GUILTY']
+#unknown = ['PHYSICAL_CONDITION', 'VEHICLE_DEFECT', 'FIRST_CONTACT_POINT', 'TRAFFIC_CONTROL_DEVICE', 'DEVICE_CONDITION', 'WEATHER_CONDITION', 
+#        'LIGHTING_CONDITION', 'TRAFFICWAY_TYPE', 'ROADWAY_SURFACE_COND', 'ROAD_DEFECT', 'DRIVER_VISION', 'GUILTY']
+
+unknown = ['PHYSICAL_CONDITION', 'VEHICLE_DEFECT', 'FIRST_CONTACT_POINT', 'TRAFFIC_CONTROL_DEVICE', 'GUILTY']
 
 for col in unknown:
     all_df = all_df[all_df[col] != 'UNKNOWN']
 
-all_df=all_df[all_df['AIRBAG_DEPLOYED'] != 'DEPLOYMENT UNKNOWN']
+#all_df=all_df[all_df['AIRBAG_DEPLOYED'] != 'DEPLOYMENT UNKNOWN']
 all_df=all_df[all_df['MANEUVER'] != 'UNKNOWN/NA']
 
 all_df['GUILTY'] = (np.where(all_df['GUILTY'] == 'YES', 1, 0))
-
-## Creating 'SUN_GLARE','SUN_AZIMUTH','SUN_ALTITUDE' columns
-
-all_df.dropna(subset=['LONGITUDE','LATITUDE'], axis=0, inplace=True)
-
-to_zone = tz.gettz('America/Chicago')
-all_df["CRASH_DATE"]= all_df["CRASH_DATE"].map(lambda x: datetime.datetime.strptime(x, "%m/%d/%Y %I:%M:%S %p").replace(tzinfo=to_zone))
+all_df['NOT_GUILTY'] = (np.where(all_df['GUILTY'] == 0, 1, 0))
 
 
-lambda_func= lambda row: get_sun_position(row['LATITUDE'], 
-                             row['LONGITUDE'], 
-                             row['CRASH_DATE'].to_pydatetime(), 
-                             row['TRAVEL_DIRECTION'],
-                             row['LIGHTING_CONDITION'], 
-                             row['WEATHER_CONDITION'])
-
-all_df[['SUN_GLARE','SUN_AZIMUTH','SUN_ALTITUDE']]=all_df.apply(lambda_func, axis=1)
+#all_df.dropna(subset=['LONGITUDE','LATITUDE'], axis=0, inplace=True)
 
 
 ## saving all_df
 import os  
 os.makedirs('../data/processed', exist_ok=True) 
 all_df.to_csv('../data/processed/crashes.gz', index=False, compression='gzip')
-
-
