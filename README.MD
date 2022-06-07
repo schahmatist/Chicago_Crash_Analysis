@@ -56,7 +56,7 @@ We considered the following models:
 * Nearest Neighbor (KNN)
 * Random Forest
 * Bayesian
-* GXBoost
+* XGBoost
 
 
 We also tried "bagging" and "voting" Ensembles of the models above
@@ -67,7 +67,7 @@ We also tried "bagging" and "voting" Ensembles of the models above
 
 # RESULTS
 
-GXBoost model was chosen as marginally better model (close second and third were Random Forest and Logistic Regression)
+XGBoost model was chosen as marginally better model (close second and third were Random Forest and Logistic Regression)
 
 
 ```python
